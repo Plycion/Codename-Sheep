@@ -1,0 +1,24 @@
+body {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+a:link {
+	text-decoration: none;
+	color: #335FFF;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #335FFF;
+}
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#logo {
+	color: #E82C0C;
+}
